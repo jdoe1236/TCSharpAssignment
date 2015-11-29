@@ -1,0 +1,5 @@
+C:\Users\RobotZ\Documents\Visual Studio 2012\Projects\MVC_NCDAssignment\WebserviceTestClient\bin\Debug\WebserviceTestClient.exe.config
+C:\Users\RobotZ\Documents\Visual Studio 2012\Projects\MVC_NCDAssignment\WebserviceTestClient\bin\Debug\WebserviceTestClient.exe
+C:\Users\RobotZ\Documents\Visual Studio 2012\Projects\MVC_NCDAssignment\WebserviceTestClient\bin\Debug\WebserviceTestClient.pdb
+C:\Users\RobotZ\Documents\Visual Studio 2012\Projects\MVC_NCDAssignment\WebserviceTestClient\obj\Debug\WebserviceTestClient.exe
+C:\Users\RobotZ\Documents\Visual Studio 2012\Projects\MVC_NCDAssignment\WebserviceTestClient\obj\Debug\WebserviceTestClient.pdb

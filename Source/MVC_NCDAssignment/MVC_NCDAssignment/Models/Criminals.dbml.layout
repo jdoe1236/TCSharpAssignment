@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Criminals">
+  <DataContextMoniker Name="/CriminalsDataContext" />
+  <nestedChildShapes>
+    <classShape Id="12306721-9a4d-4131-8466-d7931971a51e" absoluteBounds="1.25, 1.625, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/CriminalsDataContext/Criminal" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f40e4627-5c95-4a7c-b6e0-ac2db813f243" absoluteBounds="1.2650000000000001, 2.085, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
